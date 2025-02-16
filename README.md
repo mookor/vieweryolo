@@ -1,6 +1,6 @@
 # YOLO Viewer
 YOLO Viewer is a PyQt6-based desktop application designed to view images annotated with YOLO (You Only Look Once) object detection labels.\
-It allows you to easily load a dataset, navigate through images, and visualize the detection boxes overlaid on each image.\ 
+It allows you to easily load a dataset, navigate through images, and visualize the detection boxes overlaid on each image.\
 You can switch between training and validation sets and navigate through the images using both buttons and keyboard shortcuts.
 
 ## Features
